@@ -61,7 +61,7 @@ sudo nmap -sV -O -F -T5 192.168.56.102
 The host scan identified numerous vulnerable entry points. Notably, TCP port `22` was confirmed as active, exposing `OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)`.
 
 <p align="center">
-  <img src="images/pre-enumeration.png" alt="Nmap Service and Version Enumeration" width="90%">
+  <img src="pre-enumeration.png" alt="Nmap Service and Version Enumeration" width="90%">
 </p>
 
 ---
@@ -104,7 +104,7 @@ ACCOUNT FOUND: [ssh] Host: 192.168.56.102 User: msfadmin Password: msfadmin [SUC
 ```
 
 <p align="center">
-  <img src="images/medusa%20%26%20ssh%20access.png" alt="Medusa Execution and Initial SSH Access" width="90%">
+  <img src="medusa%20%26%20ssh%20access.png" alt="Medusa Execution and Initial SSH Access" width="90%">
 </p>
 
 ---
@@ -152,7 +152,7 @@ root
 ```
 
 <p align="center">
-  <img src="images/ssh%20root.png" alt="Privilege Escalation to Root via Sudo" width="90%">
+  <img src="ssh%20root.png" alt="Privilege Escalation to Root via Sudo" width="90%">
 </p>
 
 ---
