@@ -12,7 +12,7 @@
 
 ## Abstract
 
-This technical project demonstrates the experimental implementation and evaluation of an automated credential brute-force attack against remote network services, followed by post-exploitation analysis and local privilege escalation. Conducted within a segregated virtualization environment as part of the Digital Innovation One (DIO) Santander - Introduction to Cybersecurity curriculum, the study employs Kali Linux and the modular authentication auditing tool Medusa to assess vulnerability exposure on a Metasploitable 2 target machine. In addition to technical exploitation and vector analysis.
+This technical project demonstrates the experimental implementation and evaluation of an automated credential brute-force attack against remote network services, followed by post-exploitation analysis and local privilege escalation. Conducted within a segregated virtualization environment as part of the Digital Innovation One (DIO) Santander – Cybersecurity: From Zero to Practice curriculum, the study employs Kali Linux and the modular authentication auditing tool Medusa to assess vulnerability exposure on a Metasploitable 2 target machine. In addition to technical exploitation and vector analysis.
 
 **Keywords:** Penetration Testing, Brute-Force Attack, Medusa, SSH Authentication, Privilege Escalation, Metasploitable 2
 
